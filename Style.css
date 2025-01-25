@@ -1,0 +1,52 @@
+body {
+    background-color: Coral;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9em;
+}
+
+/* hyperlink rules*/
+a {
+    color:#000000;
+}
+a:link {
+    color:#000000;
+}
+a:visited {
+    color: #43743D
+}
+a:hover {
+    color: cyan
+}
+a:active {
+    color: purple
+}
+p {
+    padding-bottom: 5px;
+}
+h2 {
+    color: #000000;
+    font-size: 1.2em;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #889a9c
+}
+#sidebar {
+    color:#889A9c;
+    font-size:small;
+    font-variant:small-caps;
+    line-height:1.2;
+    padding-right:10px;
+    border-right-width:1px;
+    border-right-color:#889A9c;
+    border-right-style:solid;
+    width:200px;
+
+}
+
+#edges {
+    background-color: #FFFFFF;
+    background-image:url(background.jpg);
+    background-repeat:repeat-y;
+    margin:25px;
+}
